@@ -1,0 +1,3 @@
+adc_directly.c:31:6:vADCStartSampling	16	static
+adc_directly.c:44:6:vADCStopSampling	8	static
+adc_directly.c:49:6:HAL_ADC_ConvCpltCallback	24	static

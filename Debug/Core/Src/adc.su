@@ -1,0 +1,3 @@
+adc.c:26:6:vADCStartSampling	8	static
+adc.c:34:6:vADCStopSampling	8	static
+adc.c:45:6:HAL_TIM_PeriodElapsedCallback	16	static
